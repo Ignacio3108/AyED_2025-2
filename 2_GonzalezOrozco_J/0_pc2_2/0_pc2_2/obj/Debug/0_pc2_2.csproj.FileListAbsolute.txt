@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\2_GonzalezOrozco_CondoriLopez\2_GonzalezOrozco_J\0_pc2_2\0_pc2_2\bin\Debug\0_pc2_2.exe.config
+C:\Users\alumno.ET37\Desktop\2_GonzalezOrozco_CondoriLopez\2_GonzalezOrozco_J\0_pc2_2\0_pc2_2\bin\Debug\0_pc2_2.exe
+C:\Users\alumno.ET37\Desktop\2_GonzalezOrozco_CondoriLopez\2_GonzalezOrozco_J\0_pc2_2\0_pc2_2\bin\Debug\0_pc2_2.pdb
+C:\Users\alumno.ET37\Desktop\2_GonzalezOrozco_CondoriLopez\2_GonzalezOrozco_J\0_pc2_2\0_pc2_2\obj\Debug\0_pc2_2.exe
+C:\Users\alumno.ET37\Desktop\2_GonzalezOrozco_CondoriLopez\2_GonzalezOrozco_J\0_pc2_2\0_pc2_2\obj\Debug\0_pc2_2.pdb
