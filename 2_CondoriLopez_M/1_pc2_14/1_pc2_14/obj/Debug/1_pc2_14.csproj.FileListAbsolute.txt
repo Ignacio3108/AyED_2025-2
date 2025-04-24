@@ -1,0 +1,12 @@
+C:\Users\alumno.ET37\Desktop\1_pc2_14\1_pc2_14\bin\Debug\1_pc2_14.exe.config
+C:\Users\alumno.ET37\Desktop\1_pc2_14\1_pc2_14\bin\Debug\1_pc2_14.exe
+C:\Users\alumno.ET37\Desktop\1_pc2_14\1_pc2_14\bin\Debug\1_pc2_14.pdb
+C:\Users\alumno.ET37\Desktop\1_pc2_14\1_pc2_14\obj\Debug\1_pc2_14.exe
+C:\Users\alumno.ET37\Desktop\1_pc2_14\1_pc2_14\obj\Debug\1_pc2_14.pdb
+C:\Users\alumno.ET37\Desktop\1_pc2_14\1_pc2_14\obj\Debug\1_pc2_14.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\2_CondoriLopez_M\1_pc2_14\1_pc2_14\bin\Debug\1_pc2_14.exe.config
+C:\Users\alumno.ET37\Downloads\2_CondoriLopez_M\1_pc2_14\1_pc2_14\obj\Debug\1_pc2_14.exe
+C:\Users\alumno.ET37\Downloads\2_CondoriLopez_M\1_pc2_14\1_pc2_14\obj\Debug\1_pc2_14.pdb
+C:\Users\alumno.ET37\Downloads\2_CondoriLopez_M\1_pc2_14\1_pc2_14\bin\Debug\1_pc2_14.exe
+C:\Users\alumno.ET37\Downloads\2_CondoriLopez_M\1_pc2_14\1_pc2_14\bin\Debug\1_pc2_14.pdb
+C:\Users\alumno.ET37\Downloads\2_CondoriLopez_M\1_pc2_14\1_pc2_14\obj\Debug\1_pc2_14.csprojResolveAssemblyReference.cache
