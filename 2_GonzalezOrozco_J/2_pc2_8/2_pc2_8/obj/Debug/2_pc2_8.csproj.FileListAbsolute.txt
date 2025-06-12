@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\2_GonzalezOrozco_J\2_pc2_8\2_pc2_8\bin\Debug\2_pc2_8.exe.config
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\2_GonzalezOrozco_J\2_pc2_8\2_pc2_8\bin\Debug\2_pc2_8.exe
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\2_GonzalezOrozco_J\2_pc2_8\2_pc2_8\bin\Debug\2_pc2_8.pdb
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\2_GonzalezOrozco_J\2_pc2_8\2_pc2_8\obj\Debug\2_pc2_8.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\2_GonzalezOrozco_J\2_pc2_8\2_pc2_8\obj\Debug\2_pc2_8.exe
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\2_GonzalezOrozco_J\2_pc2_8\2_pc2_8\obj\Debug\2_pc2_8.pdb

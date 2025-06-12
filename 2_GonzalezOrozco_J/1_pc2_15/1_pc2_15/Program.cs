@@ -28,7 +28,7 @@ namespace _1_pc2_15
                 {
                     case 1:
                         int rate = rand.Next(1, 100);
-                        if (rate >= 30)
+                        if (rate <= 30)
                         {
                             Console.WriteLine("Comiste algo en mal estado. Salud -15.");
                             salud -= 15;
