@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\YET TO BE COMMITED\2_PC2_1\2_PC2_1\bin\Debug\2_PC2_1.exe.config
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\YET TO BE COMMITED\2_PC2_1\2_PC2_1\bin\Debug\2_PC2_1.exe
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\YET TO BE COMMITED\2_PC2_1\2_PC2_1\bin\Debug\2_PC2_1.pdb
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\YET TO BE COMMITED\2_PC2_1\2_PC2_1\obj\Debug\2_PC2_1.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\YET TO BE COMMITED\2_PC2_1\2_PC2_1\obj\Debug\2_PC2_1.exe
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\YET TO BE COMMITED\2_PC2_1\2_PC2_1\obj\Debug\2_PC2_1.pdb
