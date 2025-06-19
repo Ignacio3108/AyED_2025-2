@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\TO COMMIT\2_PC2_11\2_PC2_11\bin\Debug\2_PC2_11.exe.config
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\TO COMMIT\2_PC2_11\2_PC2_11\bin\Debug\2_PC2_11.exe
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\TO COMMIT\2_PC2_11\2_PC2_11\bin\Debug\2_PC2_11.pdb
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\TO COMMIT\2_PC2_11\2_PC2_11\obj\Debug\2_PC2_11.exe
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\TO COMMIT\2_PC2_11\2_PC2_11\obj\Debug\2_PC2_11.pdb
+C:\Users\alumno.ET37\Desktop\AyED_2025-2\TO COMMIT\2_PC2_11\2_PC2_11\obj\Debug\2_PC2_11.csprojResolveAssemblyReference.cache
