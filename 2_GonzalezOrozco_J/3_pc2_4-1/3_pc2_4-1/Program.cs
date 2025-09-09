@@ -11,10 +11,13 @@ namespace _3_pc2_4_1
         static void Main()
         {
             Console.WriteLine("Nivel 1 – Validación de llave (LITE)");
+
             bool ok = Level1.ValidateAccessKey("WD-700000")
                       && !Level1.ValidateAccessKey("WD-123123")
                       && !Level1.ValidateAccessKey("WX-000007")
-                      && !Level1.ValidateAccessKey("WD-00007");
+                      && !Level1.ValidateAccessKey("WD-00007")
+                      && !Level1.ValidateAccessKey("WD-abcdef");
+
             if (ok) Console.WriteLine("✔ UNLOCK → Fragmento: CT");
             else Console.WriteLine("🔒 LOCKED");
 
@@ -30,7 +33,6 @@ namespace _3_pc2_4_1
         // - La suma de esos 6 dígitos es múltiplo de 7
         public static bool ValidateAccessKey(string key)
         {
-            // TODO: implementar
             int sum_6digit = 0;
 
             if (key.StartsWith("WD-"))
@@ -39,16 +41,25 @@ namespace _3_pc2_4_1
                 {
                     for (int i = 3; i < 9; i++)
                     {
-                        sum_6digit += i;
-
-                        if (char.IsDigit(key, i))
-                        {}
-                        else { return false; }
+                        char c = key[i];
+                        if (char.IsDigit(c))
+                        {
+                            sum_6digit += c - '0'; 
+                        }
+                        else
+                        {
+                            return false;
+                        }
                     }
 
-                    if(sum_6digit%7 == 0)
-                    { return true; }
-                    else { return false; }
+                    if (sum_6digit % 7 == 0)
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
                 }
                 else { return false; }
             }

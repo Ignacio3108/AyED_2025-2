@@ -4,3 +4,9 @@ C:\Users\alumno.ET37\Desktop\3_pc2_4-1\3_pc2_4-1\bin\Debug\3_pc2_4-1.pdb
 C:\Users\alumno.ET37\Desktop\3_pc2_4-1\3_pc2_4-1\obj\Debug\3_pc2_4-1.csprojResolveAssemblyReference.cache
 C:\Users\alumno.ET37\Desktop\3_pc2_4-1\3_pc2_4-1\obj\Debug\3_pc2_4-1.exe
 C:\Users\alumno.ET37\Desktop\3_pc2_4-1\3_pc2_4-1\obj\Debug\3_pc2_4-1.pdb
+C:\Users\alumno.ET37\Desktop\AyED_2025-2-main\2_GonzalezOrozco_J\3_pc2_4-1\3_pc2_4-1\bin\Debug\3_pc2_4-1.exe.config
+C:\Users\alumno.ET37\Desktop\AyED_2025-2-main\2_GonzalezOrozco_J\3_pc2_4-1\3_pc2_4-1\obj\Debug\3_pc2_4-1.exe
+C:\Users\alumno.ET37\Desktop\AyED_2025-2-main\2_GonzalezOrozco_J\3_pc2_4-1\3_pc2_4-1\obj\Debug\3_pc2_4-1.pdb
+C:\Users\alumno.ET37\Desktop\AyED_2025-2-main\2_GonzalezOrozco_J\3_pc2_4-1\3_pc2_4-1\bin\Debug\3_pc2_4-1.exe
+C:\Users\alumno.ET37\Desktop\AyED_2025-2-main\2_GonzalezOrozco_J\3_pc2_4-1\3_pc2_4-1\bin\Debug\3_pc2_4-1.pdb
+C:\Users\alumno.ET37\Desktop\AyED_2025-2-main\2_GonzalezOrozco_J\3_pc2_4-1\3_pc2_4-1\obj\Debug\3_pc2_4-1.csprojResolveAssemblyReference.cache
