@@ -1,0 +1,6 @@
+C:\Users\Ignacio\Desktop\PROCESSED\3_pc2_3\3_pc2_3\bin\Debug\3_pc2_3.exe.config
+C:\Users\Ignacio\Desktop\PROCESSED\3_pc2_3\3_pc2_3\obj\Debug\3_pc2_3.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROCESSED\3_pc2_3\3_pc2_3\bin\Debug\3_pc2_3.exe
+C:\Users\Ignacio\Desktop\PROCESSED\3_pc2_3\3_pc2_3\bin\Debug\3_pc2_3.pdb
+C:\Users\Ignacio\Desktop\PROCESSED\3_pc2_3\3_pc2_3\obj\Debug\3_pc2_3.exe
+C:\Users\Ignacio\Desktop\PROCESSED\3_pc2_3\3_pc2_3\obj\Debug\3_pc2_3.pdb

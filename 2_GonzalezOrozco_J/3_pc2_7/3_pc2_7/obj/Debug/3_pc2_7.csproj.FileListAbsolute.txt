@@ -1,0 +1,5 @@
+C:\Users\Ignacio\Desktop\PROCESSED\3_pc2_7\3_pc2_7\bin\Debug\3_pc2_7.exe.config
+C:\Users\Ignacio\Desktop\PROCESSED\3_pc2_7\3_pc2_7\bin\Debug\3_pc2_7.exe
+C:\Users\Ignacio\Desktop\PROCESSED\3_pc2_7\3_pc2_7\bin\Debug\3_pc2_7.pdb
+C:\Users\Ignacio\Desktop\PROCESSED\3_pc2_7\3_pc2_7\obj\Debug\3_pc2_7.exe
+C:\Users\Ignacio\Desktop\PROCESSED\3_pc2_7\3_pc2_7\obj\Debug\3_pc2_7.pdb
