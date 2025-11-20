@@ -1,0 +1,5 @@
+C:\Users\Ignacio\Desktop\PROCESSED\2_pc2_14\2_pc2_14\bin\Debug\2_pc2_14.exe.config
+C:\Users\Ignacio\Desktop\PROCESSED\2_pc2_14\2_pc2_14\bin\Debug\2_pc2_14.exe
+C:\Users\Ignacio\Desktop\PROCESSED\2_pc2_14\2_pc2_14\bin\Debug\2_pc2_14.pdb
+C:\Users\Ignacio\Desktop\PROCESSED\2_pc2_14\2_pc2_14\obj\Debug\2_pc2_14.exe
+C:\Users\Ignacio\Desktop\PROCESSED\2_pc2_14\2_pc2_14\obj\Debug\2_pc2_14.pdb
